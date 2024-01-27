@@ -9,3 +9,36 @@ Shop
 Add to cart
 
 ![Screenshot (113)](https://github.com/Hasanony/Go-Online/assets/112980857/4bfd028d-abd5-4eac-b4ed-c9c7edf03d23)
+
+Details
+
+![Screenshot (114)](https://github.com/Hasanony/Go-Online/assets/112980857/5e1c2790-bc90-452a-b9ec-9174a8239c15)
+
+Login Page
+
+![Screenshot (112)](https://github.com/Hasanony/Go-Online/assets/112980857/75ba53cf-2676-4584-99e7-b83215cacaf0)
+
+Footer
+
+![Screenshot (115)](https://github.com/Hasanony/Go-Online/assets/112980857/dbe51484-a111-466a-a254-c9ec9db4ab15)
+
+Cart
+
+![Screenshot (116)](https://github.com/Hasanony/Go-Online/assets/112980857/840e83ee-887c-4ae6-9814-23599211510b)
+
+Contact Page
+
+![Screenshot (117)](https://github.com/Hasanony/Go-Online/assets/112980857/f7d4d682-506c-4801-a35f-3d7c6b37f961)
+
+Admin Login
+
+![Screenshot (118)](https://github.com/Hasanony/Go-Online/assets/112980857/1d198ecf-fe76-467a-b714-e758a9e47585)
+
+Dashboard
+
+![Screenshot (119)](https://github.com/Hasanony/Go-Online/assets/112980857/13b77334-1300-4f8a-81b7-89e1754868be)
+
+Products
+
+![Screenshot (120)](https://github.com/Hasanony/Go-Online/assets/112980857/fdd690cb-d390-4009-8b44-f88a44ecb9e7)
+
