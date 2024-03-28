@@ -1,3 +1,37 @@
+
+
+The project titled “Go Online” is a Dynamic E-commerce Website .
+Software Platforms :
+HTML
+CSS
+PHP
+JAVASCRIPT
+JQUERY
+AJAX
+MOMENTJS
+MYSQL 
+Features :
+★User-Friendly and Easy to Use.
+★Easy Navigation.
+★Detailed Product Information.
+★Easy Cart Management.
+★Secure Login/Register.
+★Stylish Loading.
+★User-Friendly Account Dashboard.
+★Secure Payments.
+★Staying Connected.
+★Status Process System.
+★Pop-up Notifications.
+★Fully Dynamic Admin Panel.
+★Seo system
+★Mobile View App
+★Dependent Category 
+★Checkout .
+VISTI WEBSITE:
+https://lnkd.in/gqjZtjTa
+
+
+
 Home Page 
 
 ![Screenshot (109)](https://github.com/Hasanony/Go-Online/assets/112980857/37736000-d3aa-4126-8347-63d697c40ee3)
